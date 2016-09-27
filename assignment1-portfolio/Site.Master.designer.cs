@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMP229_F2016_Lesson3 {
+namespace assignment1_portfolio {
     
     
     public partial class Site {
