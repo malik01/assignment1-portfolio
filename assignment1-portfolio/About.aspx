@@ -1,11 +1,13 @@
 ﻿<%@ Page Title="About" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="assignment1_portfolio.About" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-    <h2>Personal Tagline</h2>
+   <div class ="container">
+   </div>
+     <div class ="well"><h2>Personal Tagline</h2>
     Web And App Developer: I write apps that helps user in everday use and make 
 their life easy. Also helping people and companies in building their online 
-stores and boosting their sales.
-    
-    <h2>Mission Statement</h2>
+stores and boosting their sales. 
+    </div>
+    <div class ="well"><h2>Mission Statement</h2>
     <p>
         I as an app developer get to see many apps with an alien UI that is very hard 
 to understand and can get frustrating, so as being undergone these circumstances 
@@ -25,8 +27,8 @@ an item into the cart.
         Usually when visiting websites they seem to be dull and not very interactive, 
 so i want to change that and make a really interactive website thats pleasing to 
 the eye and very easy to use
-    </p>
-    <h2>BIO</h2>
+    </p></div>
+    <div class="well"><h2>BIO</h2>
     <ul>
         <li>Software engineering technology CO-OP 3rd year student</li>
         <li>Student of Centennial College Sep 2015 – Sep 2018</li>
@@ -38,7 +40,7 @@ the eye and very easy to use
         <li>Programming languages Java ,C sharp(C#)</li>
         <li>Extensive knowledge of Microsoft products like Spreadsheets, Excel, 
 	Project, Visio, Visual studio.</li>
-    </ul>
+    </ul></div>
     <p>
         <br />
         <br />
