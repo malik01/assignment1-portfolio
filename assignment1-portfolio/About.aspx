@@ -26,6 +26,24 @@ an item into the cart.
 so i want to change that and make a really interactive website thats pleasing to 
 the eye and very easy to use
     </p>
+    <h2>BIO</h2>
+    <ul>
+        <li>Software engineering technology CO-OP 3rd year student</li>
+        <li>Student of Centennial College Sep 2015 – Sep 2018</li>
+        <li>Exceptional sales and customer service skills</li>
+        <li>Fast learner of technology</li>
+        <li>Excellent team player with ability to work under minimum supervision</li>
+        <li>Web design using HTML5,CSS,Javascript,PHP,ASP.NET</li>
+        <li>Database management using SQL,PL/SQL</li>
+        <li>Programming languages Java ,C sharp(C#)</li>
+        <li>Extensive knowledge of Microsoft products like Spreadsheets, Excel, 
+	Project, Visio, Visual studio.</li>
+    </ul>
+    <p>
+        <br />
+        <br />
+    </p>
+
 
 
 </asp:Content>
