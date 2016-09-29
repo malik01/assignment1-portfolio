@@ -67,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <Content Include="Assets\images\pic1.jpg" />
     <Content Include="Scripts\jquery-2.2.4.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -163,7 +164,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Assets\images\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
