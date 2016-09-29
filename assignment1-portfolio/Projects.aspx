@@ -1,7 +1,8 @@
 ﻿<%@ Page Title="Projects" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Projects.aspx.cs" Inherits="assignment1_portfolio.Projects" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-    <p>
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <div class ="w3-container w3-center w3-animate-bottom">
 <a href="http://studentweb.cencol.ca/smalik51/header.html">
-<img height="500" src="./Assets/images/pic1.jpg" width="500" class="auto-style1" /></a></p>
+<img height="236" src="./Assets/images/pic2.jpg" width="304" class="img-rounded,w3-animate-bottom"/></a></div>
 
 </asp:Content>

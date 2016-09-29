@@ -66,6 +66,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\images\pic2.jpg" />
     <Content Include="packages.config" />
     <Content Include="Assets\images\pic1.jpg" />
     <Content Include="Scripts\jquery-2.2.4.min.map" />
