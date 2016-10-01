@@ -31,9 +31,9 @@
                      <asp:TextBox TextMode="Phone" CssClass="form-control" ID="ContactNumberTextBox" runat="server" required="true"></asp:TextBox> 
                  </div> 
  
- 
-                 <asp:Button ID="SendButton" CssClass="btn btn-primary btn-lg" runat="server" Text="Send" OnClick="SendButton_Click" /> 
- 
+                    <a href="Default.aspx">
+                 <asp:Button ID="SendButton" CssClass="btn btn-primary btn-lg" runat="server" Text="Send" /> 
+                </a>
  
              </div> 
          </div> 

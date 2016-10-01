@@ -11,6 +11,16 @@
     <style>
 .logo {
     font-size: 90px;
+    color: brown;
+} 
+.nav{
+    background-image:url("./Assets/images/navbarbackground.jpg");
+}
+.navbar-brand{
+    background-image:url("./Assets/images/navbarbackground.jpg");
+}
+.container-fluid{
+    background-image:url("./Assets/images/navbarbackground.jpg");
 }
         </style>
     <!-- CSS Section -->
