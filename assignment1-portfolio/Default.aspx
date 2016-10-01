@@ -15,7 +15,7 @@
     <br />
     <br />
      <a href="Services.aspx">
-      <span class=" glyphicon glyphicon-briefcase logo"></span><h1> Services page</h1> 
+      <span class=" glyphicon glyphicon-briefcase logo"></span> <h1>Services page</h1> 
     </a>
          </div>
              

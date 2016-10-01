@@ -70,9 +70,9 @@
     </form>
 
     <!-- Footer -->
-    <nav class="navbar navbar-default navbar-fixed-bottom">
+    <nav class="navbar navbar-default navbar-floating-bottom">
         <div class="container">
-            <h4>&copy; 2016 - Example ASP.NET Site - All Rights Reserved</h4>
+            <h4>&copy; 2016 - Assignment Portfolio site - All Rights Reserved</h4>
         </div>
     </nav>
 
